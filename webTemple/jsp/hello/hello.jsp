@@ -9,6 +9,15 @@
 </head>
 <body>
 当前时间: <%= new Date().toString() %>
+<%
+	String name = "kate";
+	int age = 21;
+%>
+<%!
+	private String book;
+	private int number;
+%>
+<%= "<br />"+"name:"+name+";"+"age"+age %>
 
 </body>
 </html>
