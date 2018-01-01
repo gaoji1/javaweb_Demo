@@ -7,10 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%@ include  file="top.jsp"%>
+	<jsp:include page="top.jsp"></jsp:include>
 	<br/>
 	main page
 	<br/>
-	<%@ include  file="foot.jsp" %>
+	<jsp:include page="foot.jsp"></jsp:include>
 </body>
 </html>
