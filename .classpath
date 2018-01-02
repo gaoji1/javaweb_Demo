@@ -7,5 +7,7 @@
 			<attribute name="source_encoding" value="UTF-8"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="webTemple/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="webTemple/WEB-INF/lib/standard.jar"/>
 	<classpathentry kind="output" path="webTemple/WEB-INF/classes"/>
 </classpath>
